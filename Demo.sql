@@ -1,0 +1,1 @@
+select datename(month) from footballmatch fm
